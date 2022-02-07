@@ -1,0 +1,153 @@
+body{
+   margin: 0 auto;
+   font-family: Arial, Helvetica, sans-serif;
+   /* font-size: 13px; */
+}
+header{
+    border: 1px solid rgb(11, 12, 11);
+    display: flex;
+    gap: 15px;
+}
+.border{
+    border: 1px solid black;
+}
+.box1{
+    border: 1px solid red;
+    padding: 6px;
+}
+.circle2{
+    border: 1px solid green;
+    width: 20px;
+    height: 20px;
+    padding: 2px;
+    background-color: cadetblue;
+    text-align: center;
+    border-radius: 14px;
+}
+.first1{
+    border: 1px solid black;
+    display: flex;
+    gap: 10px;
+}
+.content1{
+    border: 1px solid red;
+    padding: 5px;
+    margin-top: 2px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    background-color: white;
+}
+.content2{
+    border: 1px solid rgb(0, 0, 0);
+    display: flex;
+    gap: 19px;
+}
+.send-symbol{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    /* padding: 1px; */
+}
+.star{
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.box2{
+    border: 1px solid rgb(0, 0, 0);
+    flex: 1;
+}
+.logo{
+    display: flex;
+    gap: 4px;
+}
+.text{
+    padding-top: 3px;
+}
+.box3{
+    border: 1px solid red;
+    padding: 5px;
+}
+.first2{
+    border: 1px solid rgb(153, 7, 7);
+    display: flex;
+    gap: 8px;
+    margin-top: 4px;
+}
+.circle1{
+    border: 1px solid rgb(22, 7, 153);
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}   
+.inside-next-container{
+    border: 1px solid rgb(22, 22, 22);
+    display: flex;
+    margin: 9px;
+    flex: 1;
+}
+.next-container{
+    border: 1px solid rgb(8, 8, 8);
+    display: flex;
+    gap: 10px;
+    padding: 9px;
+}
+.round{
+    border: 1px solid rgb(22, 7, 153);
+    padding: 3px;
+    border-radius: 13px;
+    display: flex;
+    gap: 5px;
+    background-color: rgb(250, 246, 246);
+}
+.palin{
+    border: 1px solid rgb(189, 8, 8);
+    padding: 10px;
+}
+.line{
+    border: 1px solid blue;
+    height: 20px;
+    border-color: darkgray;
+}
+.text2{
+    border: 1px solid blue;
+    display: flex;
+    gap: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 19px;
+    background-color: rgb(250, 246, 246);
+}
+.text3{
+    padding-top: 2px;
+}
+.palin-line{
+    border: 1px solid rgb(0, 0, 0);
+}
+.logo2{
+    border: 1px solid rgb(153, 7, 7);
+    margin-top: 9px;
+    margin-bottom: 18px;
+    padding: 1px;
+}
+.text{
+    border: 1px solid rgb(153, 7, 134);
+}
+.list-round{
+    margin-top: 9px ;
+    border: 1px solid tomato;
+    width: 90px;
+    height: 20px;
+    background-color: turquoise;
+}
+.next-container1{
+    border: 1px solid blue;
+    display: flex;
+    gap: 20px;
+    margin: 19px;
+}
+.space{
+    flex: 1;
+}
